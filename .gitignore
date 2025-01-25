@@ -1,0 +1,10 @@
+
+audiobooks/gui/
+
+lib/
+
+models/
+
+*.m4b
+
+tmp/
